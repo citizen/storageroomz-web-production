@@ -2,7 +2,7 @@
   "name": "material-admin",
   "version": "0.1.0",
   "scripts": {
-    "start": "node index.html"
+    "start": "node index.js"
   },
   "devDependencies": {
     "grunt": "~0.4.5",
